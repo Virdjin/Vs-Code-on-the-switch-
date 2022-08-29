@@ -1,2 +1,2 @@
 # Vs-Code-on-the-switch-
-linux devolpment enviroment on the switvh 
+linux devolpment enviroment on the switch 
