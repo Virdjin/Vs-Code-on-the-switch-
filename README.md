@@ -35,7 +35,8 @@ And type "sudo gdebi" and paste the name of the file and hit enter. Now we shoul
 
 Now, we have a nice little developing environment.
 
-![299048187_1442581676262559_8164269857732533868_n](https://user-images.githubusercontent.com/106455334/187415461-78859ddb-e72a-4c03-a3b1-bfb711c6495c.png)
+![293971014_653417442482146_6376847065996099398_n](https://user-images.githubusercontent.com/106455334/187415803-e3001815-2719-4d93-b59a-4c11d7272be7.png)
+
 
 By the way, the screenshots and  editing was done on the switch itself. 
 
