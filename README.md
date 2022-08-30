@@ -26,6 +26,8 @@ Now let's navigate to the "downloads" folder.
 look for the file that starts with "code"
 Now, copy the whole name and open up the terminal from the "downloads" folder
 
+![296744606_401844568769249_3964520596328474348_n (1)](https://user-images.githubusercontent.com/106455334/187413571-ba0e97da-f8c9-4739-b7d9-369eb58dac3a.png)
+
 ## Part 4
 And type "sudo gdebi" and paste the name of the file and hit enter. Now we should be good to go. Type "vs" in the menu bar and go to vs code.
 
