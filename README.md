@@ -31,6 +31,11 @@ Now, copy the whole name and open up the terminal from the "downloads" folder
 ## Part 4
 And type "sudo gdebi" and paste the name of the file and hit enter. Now we should be good to go. Type "vs" in the menu bar and go to vs code.
 
+![299004529_1022959975045403_8716892119905776903_n](https://user-images.githubusercontent.com/106455334/187414837-1bae3fde-6958-4669-b651-0bdedd3a1688.png)
+
 Now, we have a nice little developing environment.
+
+![299048187_1442581676262559_8164269857732533868_n](https://user-images.githubusercontent.com/106455334/187415461-78859ddb-e72a-4c03-a3b1-bfb711c6495c.png)
+
 By the way, the screenshots and  editing was done on the switch itself. 
 
